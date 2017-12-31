@@ -53,7 +53,7 @@ Content-based recommendation based on user favorite history. (restaurant categor
 
  
 
-## Authors and Contact
+## Contact
 
 Shengyao Guo
 
