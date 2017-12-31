@@ -1,5 +1,5 @@
 # YelpPlus 
-<img src="yelp-logo-vector.jpg" alt="Drawing" style="width: 50px;"/>
+<img src="yelp-logo-vector.jpg" style="width: 50px;"/>
 Yelp+: Java Web Service Development – Event Search and Recommendation Engine 
 
 A dynamic web page for users to search events and update preference with improved personalized event recommendation based on search history and favorite records 
