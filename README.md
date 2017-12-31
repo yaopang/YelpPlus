@@ -10,6 +10,12 @@ Use of both traditional ER model database MySQL and distributive database MongoD
 
 ## Getting Started
 
+Remote acesss:  <br />
+
+http://34.216.151.7:8080/YelpPlus/#
+
+Local acess:<br />
+
 Clone repository from https://github.com/yaopang/YelpPlus.git  <br />
 
 Access the application with an open-source Java Servlet Container such as Apache tomcat. (ex: localhost://8080/Yelp) 
