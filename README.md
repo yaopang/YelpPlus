@@ -1,4 +1,4 @@
-# YelpPlus ![Alt text](/yelp-logo-vector.jpg?raw=true "Title")
+# YelpPlus ![Alt text](/yelp-logo-vector.jpg =100x20?raw=true "Title")
 
 Yelp+: Java Web Service Development – Event Search and Recommendation Engine 
 
