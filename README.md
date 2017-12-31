@@ -34,10 +34,19 @@ Content-based recommendation based on user favorite history. (restaurant categor
 
 ## ScreenShot
 
+### Nearby Tag
 <img src="nearby_screenshot.PNG" style="width: 50px;"/>
+
+### Favorite Tag
 <img src="fav_screenshot.PNG" style="width: 50px;"/>
+
+### Recommendation Tag
 <img src="recomm_screenshot.PNG" style="width: 50px;"/>
+
+### Loading Screen
 <img src="loading.PNG" style="width: 50px;"/>
+
+### Error Screen
 <img src="error.PNG" style="width: 50px;"/>
 
 
