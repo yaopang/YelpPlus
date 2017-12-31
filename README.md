@@ -11,18 +11,24 @@ Use of both traditional ER model database MySQL and distributive database MongoD
 ## Getting Started
 
 Clone repository from https://github.com/yaopang/YelpPlus.git  <br />
+
 Access the application with an open-source Java Servlet Container such as Apache tomcat. (ex: localhost://8080/Yelp) 
 
 ### Prerequisites
 Apache Tomcat 7 or above <br />
+
 MAMP 4.0 <br />
+
 MongoDB 3.6
 
 ## Functionality
 
 Show nearby resturant based on device geolocation or ip address if geolocation info not available <br />
+
 Set or unset favorite resturants<br />
+
 Show favorite resturants (error message shown if no favorite restaurant selected)<br />
+
 Content-based recommendation based on user favorite history. (restaurant category)
 
 
