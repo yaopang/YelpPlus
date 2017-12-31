@@ -34,7 +34,13 @@ Content-based recommendation based on user favorite history. (restaurant categor
 
 ## ScreenShot
 
-<img src="yelp-logo-vector.jpg" style="width: 50px;"/>
+<img src="nearby_screenshot.PNG" style="width: 50px;"/>
+<img src="fav_screenshot.PNG" style="width: 50px;"/>
+<img src="recomm_screenshot.PNG" style="width: 50px;"/>
+<img src="loading.PNG" style="width: 50px;"/>
+<img src="error.PNG" style="width: 50px;"/>
+
+
 
  
 
