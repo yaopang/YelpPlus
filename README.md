@@ -1,6 +1,8 @@
 # YelpPlus
 
-One Paragraph of project description goes here
+Yelp+: Java Web Service Development – Event Search and Recommendation Engine 
+
+A dynamic web page for users to search events and update preference with improved personalized event recommendation based on search history and favorite records 
 
 ## Getting Started
 
