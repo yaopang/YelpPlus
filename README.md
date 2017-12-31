@@ -1,5 +1,4 @@
 
-<img src="yelp-logo-vector.jpg" style="width: 50px;"/>
 
 # YelpPlus 
 
@@ -22,17 +21,14 @@ MongoDB 3.6
 ## Functionality
 
 Show nearby resturant based on device geolocation or ip address if geolocation info not available <br />
-
 Set or unset favorite resturants<br />
-
-Show favorite resturants (error message shown if no favorite restaurant selected)
-
+Show favorite resturants (error message shown if no favorite restaurant selected)<br />
 Content-based recommendation based on user favorite history. (restaurant category)
 
 
 ## ScreenShot
 
-
+<img src="yelp-logo-vector.jpg" style="width: 50px;"/>
 
  
 
