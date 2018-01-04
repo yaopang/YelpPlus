@@ -10,11 +10,11 @@ Use of both traditional ER model database MySQL and distributive database MongoD
 
 ## Getting Started
 
-Remote acesss:  <br />
+Remote access:  <br />
 
 http://54.148.214.6:8080/YelpPlus/#
 
-Local acess:<br />
+Local access:<br />
 
 Clone repository from https://github.com/yaopang/YelpPlus.git  <br />
 
