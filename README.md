@@ -12,7 +12,7 @@ Use of both traditional ER model database MySQL and distributive database MongoD
 
 Remote acesss:  <br />
 
-http://34.216.151.7:8080/YelpPlus/#
+http://54.148.214.6:8080/YelpPlus/#
 
 Local acess:<br />
 
